@@ -1,18 +1,13 @@
 <template>
-    <div>
-        <Nuxt />
-    </div>
+  <div>
+    <Nuxt />
+  </div>
 </template>
 
-<script land="ts">
-import NavBar from '@/components/NavBar.vue'
+<script lang="ts">
 export default {
-    name: "no-nav",
-    components: {
-        NavBar
-    }
+  name: 'NoNav',
 }
 </script>
 
-<style>
-</style>
+<style></style>

@@ -7,6 +7,6 @@
 <script>
 export default {
   name: 'LoginPage',
-  layout: 'no-nav'
+  layout: 'no-nav',
 }
 </script>
